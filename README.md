@@ -1,4 +1,4 @@
-# Dingdong🔔: Brain Dump Repository
+# Dingdong🔔: Brain Dump Repository 
 일과 중 자기관찰을 위한 빠른 메모 트래킹 프로그램
 
 ## 📌 프로젝트 소개
