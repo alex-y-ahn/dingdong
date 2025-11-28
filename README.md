@@ -1,0 +1,2 @@
+# dingdong
+Brain Dump Repository
